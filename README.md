@@ -1,6 +1,8 @@
 # Worked-Solution-11th-Edition-Brief-Edition-Y-Daniel-Liang
 Personal Worked Solution Of The End Chapter Exercises 
-# Java Programming Solutions – Y. Daniel Liang (11th Ed, Brief Global)
+# Java Programming Exercises
+
+Welcome to my personal repository dedicated to learning Java. In this repository, I will be working through exercises and projects from **Introduction to Java Programming, Brief Version (11th Edition) by Y Daniel Liang**. The goal is to build a solid understanding of Java fundamentals and improve my programming skills while documenting my progress along the way.
 
 This repository contains my **personal solutions** to the programming exercises in:
 
@@ -19,8 +21,16 @@ This repository contains my **personal solutions** to the programming exercises 
 
 - ISBN-13: 978-1292222035
 - This version covers the first 18 chapters of the full edition.
-- Topics include: Java basics, OOP, loops, methods, arrays, exception handling, and JavaFX.
 
-## Structure
+## 💡 What I'm Learning
+I aim to cover a wide range of topics as I progress through the book, including:
 
-Each chapter has its own folder.
+- **Basic Syntax & Control Structures**: Variables, loops, conditionals, methods
+- **Object-Oriented Programming (OOP)**: Classes, objects, inheritance, polymorphism, encapsulation
+- **Arrays & Collections**: Arrays, ArrayLists, and other collections
+- **Recursion**: Understanding recursion and its use cases
+- **GUI Programming**: Simple graphical user interfaces using Java
+- **File I/O**: Working with files for reading and writing data
+- **Exception Handling**: Handling errors and exceptions in Java
+
+
