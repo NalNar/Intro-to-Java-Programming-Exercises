@@ -20,7 +20,7 @@ This repository contains my **personal solutions** to the programming exercises 
 - ISBN-13: 978-1292222035
 - This version covers the first 18 chapters of the full edition.
 
-## 💡 What I'm Learning
+## What I'm Learning
 I aim to cover a wide range of topics as I progress through the book, including:
 
 - **Basic Syntax & Control Structures**: Variables, loops, conditionals, methods
