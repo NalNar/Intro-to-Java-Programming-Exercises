@@ -1,5 +1,3 @@
-# Worked-Solution-11th-Edition-Brief-Edition-Y-Daniel-Liang
-Personal Worked Solution Of The End Chapter Exercises 
 # Java Programming Exercises
 
 Welcome to my personal repository dedicated to learning Java. In this repository, I will be working through exercises and projects from **Introduction to Java Programming, Brief Version (11th Edition) by Y Daniel Liang**. The goal is to build a solid understanding of Java fundamentals and improve my programming skills while documenting my progress along the way.
