@@ -8,16 +8,16 @@ public class UnspecifiedSum{
         int input = scan.nextInt();
 
         // sentinel value of 0, when user enters 0 it ends the loop and prints the sum
-        int sum = 0; // intinilize the sum
+        int sum = 0; // initialize the sum
 
-        while(input!= 0){
-            sum += input;
-            // read the integer
+        do{
             System.out.print("Enter an integer (0 to exit): ");
             input = scan.nextInt();
+            sum += input;
 
-        }
-        System.out.printf("The sum is %d.0 ",sum);
+        } while(input!=0);
+
+        System.out.printf("The sum is %d ",sum);
         
     }
 }
