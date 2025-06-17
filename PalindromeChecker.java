@@ -11,13 +11,13 @@ public class PalindromeChecker {
         int low = 0;
         int high = input.length()-1;
 
-        // assume entered string is not a palindrome
-        boolean isPalindrome = false;
+        // assume entered string is a palindrome
+        boolean isPalindrome = true;
 
         // loop until low is less than high
         while(low<high){
-            if (input.charAt(low) == input.charAt(high)){
-                isPalindrome = true;
+            if (input.charAt(low) != input.charAt(high)){
+                isPalindrome = false;
                 break;
             }
         low ++; // increment low pointer
@@ -32,7 +32,7 @@ public class PalindromeChecker {
         }
 
 
-
+    scan.close();
     }
     
 }
