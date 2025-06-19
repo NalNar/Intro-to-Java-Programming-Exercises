@@ -3,8 +3,7 @@ public class Question5_1 {
         // Program for checking whether the user has passed the course
         java.util.Scanner input = new java.util.Scanner(System.in);
         
-    
-
+    //  main body
         while(true) {
             System.out.print("Enter your score: ");
             int score = input.nextInt(); // input
