@@ -1,6 +1,6 @@
 public class ExamGrading {
     public static void main(String[]args){
-        // create a randomize array of char answer key 
+        // create a randomized array of char answer key 
         char [][] answer = new char[100][10]; // example, 100 students gives a mcq of 10 
         
         // randomize answers to the 2d array of 'answer'
