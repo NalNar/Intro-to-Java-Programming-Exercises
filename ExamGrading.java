@@ -1,3 +1,4 @@
+/* Similar to listing 8.2 conceptually, however the randomization is my thought */
 public class ExamGrading {
     public static void main(String[]args){
         // create a randomized array of char answer key 
