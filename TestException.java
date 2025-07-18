@@ -24,7 +24,8 @@ public class TestException{
 
     private static int sum(int[] list){
         int result = 0;
-        for (int i = 0; i<list.length;i++){
+         // exception is the <=
+        for (int i = 0; i<=list.length;i++){
             result = result + list[i];
         }
         return result;
