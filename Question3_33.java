@@ -18,7 +18,7 @@ public class Question3_33{
 
         if (ppw1>ppw2) { System.out.print("Package 1 has better price "); } 
         if (ppw1<ppw2) { System.out.print("Package 2 has better price "); } 
-        if ((Math.abs(ppw1 - ppw2) < 1e-6)) { System.out.print("Both Has Same Price"); } // using the epsilon method as direct comparison using == might not work for all values 
+        if ((Math.abs(ppw1 - ppw2) < 1e-6)) { System.out.print("Both Has Same Price"); } // using the epsilon method as direct comparison instead of using ==  
 
 
     }
